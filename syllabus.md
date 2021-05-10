@@ -47,7 +47,9 @@
 
 ## Course Description
 
+Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Design & Development*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Anaconda and Jupyter Notebooks, which we will employ) and flexibility.
 
+The bulk of the course will be spent experimenting: while at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest. 
 
 Each week, plan on following following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
@@ -213,7 +215,7 @@ As we continue to critique and explore distant reading, we will engage with meth
 
 ### Week Thirteen: Good Enough (Tuesday, November 16, 2021)
 
-Drawing on the models and questions from our texts, we'll consider the approach of "good enough," and discuss how we can bring these lessons to our projects, particularly in terms of allowing for failure and iteration.
+Drawing on the models and questions from our texts, we'll consider the approach of "good enough," and discuss how we can bring these lessons to our projects, particularly in terms of allowing for failure and iteration. We'll also explore methods for translating knowledge from Python to other programming languages.
 
 - *Race After Technology*: Chapter 3
 - *Humanities Data Analysis*: Epilogue
