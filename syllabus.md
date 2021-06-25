@@ -49,12 +49,12 @@
 
 Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Design & Development*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Anaconda and Jupyter Notebooks, which we will employ) and flexibility.
 
-The bulk of the course will be spent experimenting: while at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest. 
+The bulk of the course will be spent experimenting: while at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest.
 
 Each week, plan on following following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
 - **Weekly Readings.** Complete this combination of primary and secondary texts prior to attending the in-person meeting. The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module.
-- **In-Person Overview.** Each week's in-person meeeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. 
+- **In-Person Overview.** Each week's in-person meeeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings.
 - **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
 
 ---
@@ -74,7 +74,7 @@ Each week, plan on following following instructions in the Webcourses module reg
 This course requires a mix of applied and theoretical readings, including some open access materials. The primary texts include:
 
 - Benjamin, Ruha. 2019. *Race After Technology: Abolitionist Tools for the New Jim Code.* John Wiley & Sons.
-- Drucker, Johanna. 2021. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship.* Routledge.
+- Drucker, Johanna. 2021. [*The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship.*](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2Fmono%2F10.4324%2F9781003106531) Routledge. (This text is available as an unlimited access ebook through UCF library: follow the link and log in to download it.)
 - Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. 2021. *Humanities Data Analysis: Case Studies with Python.* Princeton University Press.
 
 Supplementary suggested readings are included in each module to guide additional exploration of programming methods and concepts explored.
@@ -93,7 +93,7 @@ Supplementary suggested readings are included in each module to guide additional
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
-Late work is accepted without penalty through the next major assignment deadline, with the exception of the draft project and peer review, which requi. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence.
+Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence.
 
 There is no extra credit work available in this class. Grades will be available through Webcourses and updated weekly.
 
@@ -167,7 +167,7 @@ Working with larger datasets requires more intentional structures: we'll explore
   
 ### Week Seven: Vectors (Tuesday, October 5, 2021)
 
-Through leveling up our text processing, we'll build our confidence in another data structure, arrays, while starting to think about visual as well as textual dimensions to exploring data. 
+Through leveling up our text processing, we'll build our confidence in another data structure, arrays, while starting to think about visual as well as textual dimensions to exploring data.
 
 - *Humanities Data Analysis*: Chapter 3
 - *Digital Humanities Coursebook*: Chapter 6
@@ -183,7 +183,7 @@ By starting to combine humanist theoretical lenses with our new technical method
 
 ### Week Nine: Numbers (Tuesday, October 19, 2021)
 
-While the quantitative is rarely centered in Texts & Technology, some measurable datasets can have revealing numeric aspects. We'll explore methods for visualizing statistics and probability in humanities data. 
+While the quantitative is rarely centered in Texts & Technology, some measurable datasets can have revealing numeric aspects. We'll explore methods for visualizing statistics and probability in humanities data.
 
 - *Humanities Data Analysis*: Chapter 5 and 6
 - **Coding Exercise Nine: Numbers**
