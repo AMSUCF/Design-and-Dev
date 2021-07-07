@@ -17,22 +17,22 @@
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Mixed Mode Course Structure](#mixed-mode-course-structure)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week One: Gearing Up (Tuesday, August 24, 2021)](#week-one-gearing-up-tuesday-august-24-2021)
-    - [Week Two: Data (Tuesday, August 24, 2021)](#week-two-data-tuesday-august-24-2021)
-    - [Week Three: Strings (Tuesday, September 7, 2021)](#week-three-strings-tuesday-september-7-2021)
-    - [Week Four: Metadata (Tuesday, September 14, 2021)](#week-four-metadata-tuesday-september-14-2021)
-    - [Week Five: Jupyter (Tuesday, September 21, 2021)](#week-five-jupyter-tuesday-september-21-2021)
-    - [Week Six: Data Structures (Tuesday, September 28, 2021)](#week-six-data-structures-tuesday-september-28-2021)
-    - [Week Seven: Vectors (Tuesday, October 5, 2021)](#week-seven-vectors-tuesday-october-5-2021)
-    - [Week Eight: Analysis (Tuesday, October 12, 2021)](#week-eight-analysis-tuesday-october-12-2021)
-    - [Week Nine: Numbers (Tuesday, October 19, 2021)](#week-nine-numbers-tuesday-october-19-2021)
-    - [Week Ten: Maps (Tuesday, October 26, 2021)](#week-ten-maps-tuesday-october-26-2021)
-    - [Week Eleven: Voices (Tuesday, November 2, 2021)](#week-eleven-voices-tuesday-november-2-2021)
-    - [Week Twelve: Models (Tuesday, November 9, 2021)](#week-twelve-models-tuesday-november-9-2021)
-    - [Week Thirteen: Good Enough (Tuesday, November 16, 2021)](#week-thirteen-good-enough-tuesday-november-16-2021)
-    - [Week Fourteen: Critiques (Tuesday, November 23, 2021)](#week-fourteen-critiques-tuesday-november-23-2021)
-    - [Week Fifteen: Final Project Showcase (Tuesday, November 30, 2021)](#week-fifteen-final-project-showcase-tuesday-november-30-2021)
-    - [Final Exam/Reflection (Tuesday, December 7, 2021)](#final-examreflection-tuesday-december-7-2021)
+    - [Week One: Gearing Up (Monday, August 23, 2021)](#week-one-gearing-up-monday-august-23-2021)
+    - [Week Two: Data (Monday, August 30, 2021)](#week-two-data-monday-august-30-2021)
+    - [Week Three: Strings (Holiday - Online Module)](#week-three-strings-holiday---online-module)
+    - [Week Four: Metadata (Monday, September 13, 2021)](#week-four-metadata-monday-september-13-2021)
+    - [Week Five: Jupyter (Monday, September 20, 2021)](#week-five-jupyter-monday-september-20-2021)
+    - [Week Six: Data Structures (Monday, September 27, 2021)](#week-six-data-structures-monday-september-27-2021)
+    - [Week Seven: Vectors (Monday, October 4, 2021)](#week-seven-vectors-monday-october-4-2021)
+    - [Week Eight: Analysis (Monday, October 11, 2021)](#week-eight-analysis-monday-october-11-2021)
+    - [Week Nine: Numbers (Monday, October 18, 2021)](#week-nine-numbers-monday-october-18-2021)
+    - [Week Ten: Maps (Monday, October 25, 2021)](#week-ten-maps-monday-october-25-2021)
+    - [Week Eleven: Voices (Monday, November 1, 2021)](#week-eleven-voices-monday-november-1-2021)
+    - [Week Twelve: Models (Monday, November 8, 2021)](#week-twelve-models-monday-november-8-2021)
+    - [Week Thirteen: Good Enough (Monday, November 15, 2021)](#week-thirteen-good-enough-monday-november-15-2021)
+    - [Week Fourteen: Critiques (Monday, November 22, 2021)](#week-fourteen-critiques-monday-november-22-2021)
+    - [Week Fifteen: Final Project Showcase (Monday, November 29, 2021)](#week-fifteen-final-project-showcase-monday-november-29-2021)
+    - [Final Exam/Reflection (Monday, December 6, 2021)](#final-examreflection-monday-december-6-2021)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -41,7 +41,6 @@
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
     - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
-  - [COVID-19 Statements and Policies](#covid-19-statements-and-policies)
   
 ---
 
@@ -87,9 +86,9 @@ Supplementary suggested readings are included in each module to guide additional
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 27, 2021  |
 | 50  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, One-Ten |
-| 10  |  **Project Proposal** - A short (2-3 page) summary of the proposed project, including any questions about methods, libraries, or recommendations for approaching the work. | Tuesday, November 2, 2021 |
-| 25 |  **Final Project** - At the closure of the course, students will have completed an iterated project demonstrating a digital approach to scholarship. This project can build on any of the exercises from the semester, and will be shared in-class. It does not require substantial original code, but should use modified versions of methodologies used in class. | Tuesday, November 30, 2021  |
-| 10 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Tuesday, December 7, 2021  |
+| 10  |  **Project Proposal** - A short (2-3 page) summary of the proposed project, including any questions about methods, libraries, or recommendations for approaching the work. | Monday, November 1, 2021 |
+| 25 |  **Final Project** - At the closure of the course, students will have completed an iterated project demonstrating a digital approach to scholarship. This project can build on any of the exercises from the semester, and will be shared in-class. It does not require substantial original code, but should use modified versions of methodologies used in class. | Monday, November 29, 2021  |
+| 10 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Monday, December 6, 2021  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -112,7 +111,7 @@ This course uses a mixed mode format, and relies upon students to complete all r
 
 ## Weekly Schedule
 
-### Week One: Gearing Up (Tuesday, August 24, 2021)
+### Week One: Gearing Up (Monday, August 23, 2021)
 
 We start the semester by configuring our systems for Python: we'll work through the installation process and get to know Python, PIP, Anaconda, Jupyter, Visual Code Studio, and Git as the tools we'll rely upon throughout the semester.
 
@@ -122,7 +121,7 @@ We start the semester by configuring our systems for Python: we'll work through 
 - **Due: Activity Verification (Friday May 21st)**
 - **Coding Exercise One: Configuration**
 
-### Week Two: Data (Tuesday, August 24, 2021)
+### Week Two: Data (Monday, August 30, 2021)
 
 As we test out our configurations, we will explore the different types of data that T&T work can engage, as well as start to consider the practicalities of marking, cleaning, and using data.
 
@@ -131,7 +130,7 @@ As we test out our configurations, we will explore the different types of data t
 - *Digital Humanities Coursebook*: Chapter 2
 - **Coding Exercise Two: Web Content**
 
-### Week Three: Strings (Tuesday, September 7, 2021)
+### Week Three: Strings (Holiday - Online Module)
 
 We'll build our comfort with the language of programming through exploring building blocks, with an emphasis on strings as the foundation of textual data, as well as variables, functions, and loops.
 
@@ -140,7 +139,7 @@ We'll build our comfort with the language of programming through exploring build
 - *Digital Humanities Coursebook*: Chapter 3
 - **Coding Exercise Three: Strings**
 
-### Week Four: Metadata (Tuesday, September 14, 2021)
+### Week Four: Metadata (Monday, September 13, 2021)
 
 Through thinking about both the texts we engage and their metadata, markup, and descriptions, we'll engage both the pragmatic challenges of standards (XML, TEI, JSON, and so forth) and the research possibilities.
 
@@ -149,7 +148,7 @@ Through thinking about both the texts we engage and their metadata, markup, and 
 - *Digital Humanities Coursebook*: Chapter 4
 - **Coding Exercise Four: Counting**
   
-### Week Five: Jupyter (Tuesday, September 21, 2021)
+### Week Five: Jupyter (Monday, September 20, 2021)
 
 As we level up our methodologies, we'll start to explore the capacity of Jupyter Notebooks, with particular attention to how we can start to build reusable, structured methodologies for working in Python.
 
@@ -157,7 +156,7 @@ As we level up our methodologies, we'll start to explore the capacity of Jupyter
 - *Humanities Data Analysis*: Chapter 1
 - **Coding Exercise Five: Jupyter Configuration**
 
-### Week Six: Data Structures (Tuesday, September 28, 2021)
+### Week Six: Data Structures (Monday, September 27, 2021)
 
 Working with larger datasets requires more intentional structures: we'll explore databases and build our comfort with manipulating and parsing CSV, PDFs, JSON, XML, and HTML documents.
 
@@ -165,7 +164,7 @@ Working with larger datasets requires more intentional structures: we'll explore
 - *Digital Humanities Coursebook*: Chapter 5
 - **Coding Exercise Six: Structured Data**
   
-### Week Seven: Vectors (Tuesday, October 5, 2021)
+### Week Seven: Vectors (Monday, October 4, 2021)
 
 Through leveling up our text processing, we'll build our confidence in another data structure, arrays, while starting to think about visual as well as textual dimensions to exploring data.
 
@@ -173,7 +172,7 @@ Through leveling up our text processing, we'll build our confidence in another d
 - *Digital Humanities Coursebook*: Chapter 6
 - **Coding Exercise Seven: Initial Analysis**
 
-### Week Eight: Analysis (Tuesday, October 12, 2021)
+### Week Eight: Analysis (Monday, October 11, 2021)
 
 By starting to combine humanist theoretical lenses with our new technical methodologies, we'll engage in thoughtful critique of cultural data "mining" and its challenges.
 
@@ -181,14 +180,14 @@ By starting to combine humanist theoretical lenses with our new technical method
 - *Digital Humanities Coursebook*: Chapter 7
 - **Coding Exercise Eight: Cultural Analysis?**
 
-### Week Nine: Numbers (Tuesday, October 19, 2021)
+### Week Nine: Numbers (Monday, October 18, 2021)
 
 While the quantitative is rarely centered in Texts & Technology, some measurable datasets can have revealing numeric aspects. We'll explore methods for visualizing statistics and probability in humanities data.
 
 - *Humanities Data Analysis*: Chapter 5 and 6
 - **Coding Exercise Nine: Numbers**
 
-### Week Ten: Maps (Tuesday, October 26, 2021)
+### Week Ten: Maps (Monday, October 25, 2021)
 
 Drawing on models of GIS and spatial humanities, we'll explore the potential for data maps and plots across humanities datasets, thinking through both traditional and thematic approaches to mapping.
 
@@ -196,16 +195,16 @@ Drawing on models of GIS and spatial humanities, we'll explore the potential for
 - *Digital Humanities Coursebook*: Chapter 8
 - **Coding Exercise Ten: Mapping**
 
-### Week Eleven: Voices (Tuesday, November 2, 2021)
+### Week Eleven: Voices (Monday, November 1, 2021)
 
 While understandably subject to critique, computational methods for attributing authorship and finding patterns in writing styles have attracted a lot of attention. We'll explore these mechanisms, with attention to the theorizing of "voice."
 
 - *Race After Technology*: Introduction + Chapter 1
 - *Humanities Data Analysis*: Chapter 8
 - *Digital Humanities Coursebook*: Chapter 9
-- **Due: Project Proposal (for discussion in-class, Tuesday, November 2nd)**
+- **Due: Project Proposal (for discussion in-class, Monday, November 2nd)**
   
-### Week Twelve: Models (Tuesday, November 9, 2021)
+### Week Twelve: Models (Monday, November 8, 2021)
 
 As we continue to critique and explore distant reading, we will engage with methods of topic modeling, and consider the potential and challenges of integrating these approaches alongside humanities approaches.
 
@@ -213,7 +212,7 @@ As we continue to critique and explore distant reading, we will engage with meth
 - *Humanities Data Analysis*: Chapter 9
 - *Digital Humanities Coursebook*: Chapter 10
 
-### Week Thirteen: Good Enough (Tuesday, November 16, 2021)
+### Week Thirteen: Good Enough (Monday, November 15, 2021)
 
 Drawing on the models and questions from our texts, we'll consider the approach of "good enough," and discuss how we can bring these lessons to our projects, particularly in terms of allowing for failure and iteration. We'll also explore methods for translating knowledge from Python to other programming languages.
 
@@ -221,22 +220,22 @@ Drawing on the models and questions from our texts, we'll consider the approach 
 - *Humanities Data Analysis*: Epilogue
 - *Digital Humanities Coursebook*: Chapter 11
 
-### Week Fourteen: Critiques (Tuesday, November 23, 2021)
+### Week Fourteen: Critiques (Monday, November 22, 2021)
 
 Using both *Race After Technology* and the work of other scholars from our core list, we will critique the methods we've put into place, considering how we might reshape and reimagine our technologies and code in light of these challenges.
 
 - *Race After Technology*: Chapter 4
 - *Digital Humanities Coursebook*: Chapter 12
 
-### Week Fifteen: Final Project Showcase (Tuesday, November 30, 2021)
+### Week Fifteen: Final Project Showcase (Monday, November 29, 2021)
 
 During the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship, and brainstorm next steps.
 
 - *Race After Technology*: Chapter 5
 - *Digital Humanities Coursebook*: Coda
-- **Due: Final Project (for discussion in-class, Tuesday, November 30th)**
+- **Due: Final Project (for discussion in-class, Monday, November 29th)**
 
-### Final Exam/Reflection (Tuesday, December 7, 2021)
+### Final Exam/Reflection (Monday, December 6, 2021)
 
 ---
 
@@ -300,16 +299,3 @@ Students who are deployed active duty military and/or National Guard personnel a
 Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
-
-## COVID-19 Statements and Policies
-
-To protect members of our community, everyone is required to wear a facial covering inside all common spaces including [classrooms](https://policies.ucf.edu/documents/PolicyEmergencyCOVIDReturnPolicy.pdf). Students who choose not to wear facial coverings will be asked to leave the classroom by the instructor. If they refuse to leave the classroom or put on a facial covering, they may be considered disruptive (please see the Golden Rule for student behavior expectations). Faculty have the right to cancel class if the safety and well-being of class members are in jeopardy. Students will be responsible for the material that would have been covered in class as provided by the instructor.  
-
-Depending on the course of the pandemic during the semester, the university may make changes to the way classes are offered. If that happens, please look for announcements or messages in Webcourses@UCF or Knights email about changes specific to this course.
-
-**COVID-19 and Illness Notification** – Students who believe they may have a COVID-19 diagnosis should contact UCF Student Health Services (407-823-2509) so proper contact tracing procedures can take place.
-Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is [located here](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
-
-Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class.
-
-**In Case of Faculty Illness** – If the instructor falls ill during the semester, there may be changes to this course, including having a backup instructor take over the course. Please look for announcements or mail in Webcourses@UCF or Knights email for any alterations to this course.
