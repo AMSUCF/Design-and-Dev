@@ -31,7 +31,7 @@
     - [Week Twelve: Models (Monday, November 8, 2021)](#week-twelve-models-monday-november-8-2021)
     - [Week Thirteen: Good Enough (Monday, November 15, 2021)](#week-thirteen-good-enough-monday-november-15-2021)
     - [Week Fourteen: Critiques (Monday, November 22, 2021)](#week-fourteen-critiques-monday-november-22-2021)
-    - [Week Fifteen: Final Project Showcase (Monday, November 29, 2021)](#week-fifteen-final-project-showcase-monday-november-29-2021)
+    - [Week Fifteen: Design Futures (Monday, November 29, 2021)](#week-fifteen-design-futures-monday-november-29-2021)
     - [Final Exam/Reflection (Monday, December 6, 2021)](#final-examreflection-monday-december-6-2021)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
@@ -85,10 +85,8 @@ Supplementary suggested readings are included in each module to guide additional
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 27, 2021  |
-| 50  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, One-Ten |
-| 10  |  **Project Proposal** - A short (2-3 page) summary of the proposed project, including any questions about methods, libraries, or recommendations for approaching the work. | Monday, November 1, 2021 |
-| 25 |  **Final Project** - At the closure of the course, students will have completed an iterated project demonstrating a digital approach to scholarship. This project can build on any of the exercises from the semester, and will be shared in-class. It does not require substantial original code, but should use modified versions of methodologies used in class. | Monday, November 29, 2021  |
-| 10 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Monday, December 6, 2021  |
+| 75  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, One-Fifteen |
+| 20 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Monday, December 6, 2021  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -202,7 +200,7 @@ While understandably subject to critique, computational methods for attributing 
 - *Race After Technology*: Introduction + Chapter 1
 - *Humanities Data Analysis*: Chapter 8
 - *Digital Humanities Coursebook*: Chapter 9
-- **Due: Project Proposal (for discussion in-class, Monday, November 2nd)**
+- **Coding Exercise Eleven: Principal Component Analysis**
   
 ### Week Twelve: Models (Monday, November 8, 2021)
 
@@ -211,6 +209,7 @@ As we continue to critique and explore distant reading, we will engage with meth
 - *Race After Technology*: Chapter 2
 - *Humanities Data Analysis*: Chapter 9
 - *Digital Humanities Coursebook*: Chapter 10
+- **Coding Exercise Twelve: Topic Modeling**
 
 ### Week Thirteen: Good Enough (Monday, November 15, 2021)
 
@@ -219,6 +218,7 @@ Drawing on the models and questions from our texts, we'll consider the approach 
 - *Race After Technology*: Chapter 3
 - *Humanities Data Analysis*: Epilogue
 - *Digital Humanities Coursebook*: Chapter 11
+- **Coding Exercise Thirteen: Interface**
 
 ### Week Fourteen: Critiques (Monday, November 22, 2021)
 
@@ -226,14 +226,15 @@ Using both *Race After Technology* and the work of other scholars from our core 
 
 - *Race After Technology*: Chapter 4
 - *Digital Humanities Coursebook*: Chapter 12
+- **Coding Exercise Fourteen: Project Design**
 
-### Week Fifteen: Final Project Showcase (Monday, November 29, 2021)
+### Week Fifteen: Design Futures (Monday, November 29, 2021)
 
 During the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship, and brainstorm next steps.
 
 - *Race After Technology*: Chapter 5
 - *Digital Humanities Coursebook*: Coda
-- **Due: Final Project (for discussion in-class, Monday, November 29th)**
+- **Coding Exercise Fifteen: Designed Imaginary**
 
 ### Final Exam/Reflection (Monday, December 6, 2021)
 
