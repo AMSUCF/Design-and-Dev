@@ -99,7 +99,7 @@ There is no extra credit work available in this class. Grades will be available 
 
 ## Mixed Mode Course Structure
 
-This course uses a mixed mode format, and relies upon students to complete all readings, engage with both in person lectures and online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
+This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
 - The course will meet at the scheduled time on campus unless otherwise noted in the weekly module.
 - Office hour assistance is additionally available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
