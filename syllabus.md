@@ -2,7 +2,7 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
-- **Office:** TCH 236B; Monday 2:00 - 5:00 PM
+- **Office:** Via Zoom; Monday 2:00 - 5:00 PM
 - **Course Meeting:** Monday 6:00 - 7:50 PM
   
 ---
@@ -34,6 +34,7 @@
     - [Week Fifteen: Design Futures (Monday, November 29, 2021)](#week-fifteen-design-futures-monday-november-29-2021)
     - [Final Exam/Reflection (Monday, December 6, 2021)](#final-examreflection-monday-december-6-2021)
   - [General Policies](#general-policies)
+    - [COVID-19 Statement for Fall 2021](#covid-19-statement-for-fall-2021)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
     - [Course Accessibility Statement](#course-accessibility-statement)
@@ -52,8 +53,8 @@ The bulk of the course will be spent experimenting: while at first it may seem t
 
 Each week, plan on following following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
-- **Weekly Readings.** Complete this combination of primary and secondary texts prior to attending the in-person meeting. The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module.
-- **In-Person Overview.** Each week's in-person meeeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings.
+- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
+- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. All activities will be documented and available online for those unable to attend
 - **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
 
 ---
@@ -242,6 +243,16 @@ During the final project showcase, we will embrace both the successes and failur
 
 ## General Policies
 
+### COVID-19 Statement for Fall 2021
+
+**Statement Regarding Masks in Classrooms** UCF expects that all members of our campus community who are able to do so get vaccinated, and we expect all members of our campus community to wear masks indoors, in line with the latest CDC guidelines. Masks are required in approved clinical or health care settings.
+
+**Notifications in Case of Changes to Course Modality** If the instructor falls ill during the semester, there may be temporary changes to this course, including having a backup instructor take over the course or going remote for a short time. Please look for announcements or mail in Webcourses@UCF or Knights email for any temporary alterations to this course.
+
+**COVID-19 and Illness Notification** Students who believe they may have been exposed to COVID-19 or who test positive must contact UCF Student Health Services (407-823-2509) so proper contact tracing procedures can take place. Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19 or have tested positive for COVID-19.
+
+Students should contact their instructor(s) as soon as possible if they miss class for any illness to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class.
+
 ### Academic Integrity
 
 [The Center for Academic Integrity (CAI)](http://academicintegrity.org/) defines academic integrity as a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility. From these values flow principles of behavior that enable academic communities to translate ideals into action.
@@ -271,7 +282,7 @@ Students should also familiarize themselves with the procedures for academic mis
 
 ### Course Accessibility Statement
 
-This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation.
+This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation. If changes in course modality occur and you require additional accomodations, please reach out as soon as possible.
 
 Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
 
