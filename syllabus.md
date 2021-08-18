@@ -51,10 +51,10 @@ Texts & Technology work is situated on an understanding of "new" media mechanism
 
 The bulk of the course will be spent experimenting: while at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest.
 
-Each week, plan on following following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
+Each week, plan on following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
 - **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
-- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. All activities will be documented and available online for those unable to attend
+- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. All activities will be documented and available online for those unable to attend
 - **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
 
 ---
