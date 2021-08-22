@@ -114,10 +114,8 @@ This course uses a mixed mode format, and relies upon students to complete all r
 
 We start the semester by configuring our systems for Python: we'll work through the installation process and get to know Python, PIP, Anaconda, Jupyter, Visual Code Studio, and Git as the tools we'll rely upon throughout the semester.
 
-- Turkel, William J. and Adam Krymble. [Python Introduction and Installation.](https://programminghistorian.org/en/lessons/introduction-and-installation)
-- Turkel, William J. and Adam Krymble. [Working with Text Files in Python.](https://programminghistorian.org/en/lessons/working-with-text-files)
 - *Digital Humanities Coursebook*: Chapter 1
-- **Due: Activity Verification (Friday May 21st)**
+- **Due: Activity Verification (Friday August 27th)**
 - **Coding Exercise One: Configuration**
 
 ### Week Two: Data (Monday, August 30, 2021)
