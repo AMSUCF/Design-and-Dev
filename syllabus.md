@@ -208,7 +208,7 @@ As we continue to critique and explore distant reading, we will engage with meth
 - *Race After Technology*: Chapter 2
 - *Humanities Data Analysis*: Chapter 9
 - *Digital Humanities Coursebook*: Chapter 10
-- **Coding Exercise Twelve: Topic Modeling**
+- **Coding Exercise Twelve: Texts, Three Ways**
 
 ### Week Thirteen: Good Enough (Monday, November 15, 2021)
 
@@ -225,7 +225,7 @@ Using both *Race After Technology* and the work of other scholars from our core 
 
 - *Race After Technology*: Chapter 4
 - *Digital Humanities Coursebook*: Chapter 12
-- **Coding Exercise Fourteen: Project Design**
+- **Coding Exercise Fourteen: Design**
 
 ### Week Fifteen: Design Futures (Monday, November 29, 2021)
 
@@ -233,7 +233,7 @@ During the final project showcase, we will embrace both the successes and failur
 
 - *Race After Technology*: Chapter 5
 - *Digital Humanities Coursebook*: Coda
-- **Coding Exercise Fifteen: Designed Imaginary**
+- **Coding Exercise Fourteen Due**
 
 ### Final Exam/Reflection (Monday, December 6, 2021)
 
